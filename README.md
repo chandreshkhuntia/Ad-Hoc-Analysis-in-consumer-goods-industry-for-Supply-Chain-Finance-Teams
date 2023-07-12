@@ -19,7 +19,7 @@ Understanding of Business Model of a consumer goods company
 Deep Understanding of Profit & Loss Statement
 
 
-## Creation of various reports using Stored Procedures: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/Stored%20Procedures.sql)
+## Creation of various automated reports using Stored Procedures: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/Stored%20Procedures.sql)
 
 1. Market Badge(Gold/Silver)
 
