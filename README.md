@@ -45,12 +45,12 @@ Deep Understanding of Profit & Loss Statement
 4. Gross sales
 
 
-## Creation of other reports using CTE & WINDOW FUNCTION: _(Click Here)_()
+## Creation of other reports using CTE & WINDOW FUNCTION: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/cte%20%26%20window%20function.sql)
 1. Net invoice sales amount
 2. Top 3 products from each division by total quantity sold in a given year
 
 
-## Performance Improvement: _(Click Here)_()
+## Performance Improvement: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/Performance%20Improvement.sql)
 1. Created dim_date and joined with fact_sales_monthly table to reduce the amount of time taking to run the query
 2. Added the fiscal year in the fact_sales_monthly table itself
    
