@@ -33,7 +33,7 @@ Deep Understanding of Profit & Loss Statement
 
 6. Top n products per division by qty sold
 
-## Creation of various views: [_(Click Here)_]()
+## Creation of various views: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/User%20Defined%20Functions.sql)
 
 1. Sales preinv discount
    
