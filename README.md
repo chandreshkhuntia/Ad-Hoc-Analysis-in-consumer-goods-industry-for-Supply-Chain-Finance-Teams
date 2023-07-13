@@ -6,17 +6,17 @@ Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project
 
 ## Supply Chain Analytics: 
 
-Understanding of net error, absolute error, and forecasting errors. 
+1. Understanding of net error, absolute error, and forecasting errors. 
 
-Calculation of absolute error in supply chain forecasting to measure forecast errors' magnitude. 
+2. Calculation of absolute error in supply chain forecasting to measure forecast errors' magnitude. 
 
-Generation and interpretation of forecast accuracy reports to evaluate supply chain forecasting performance. 
+3. Generation and interpretation of forecast accuracy reports to evaluate supply chain forecasting performance. 
 
 ## Finance analytics:
 
-Understanding of Business Model of a consumer goods company
+1. Understanding of Business Model of a consumer goods company
 
-Deep Understanding of Profit & Loss Statement
+2. Deep Understanding of Profit & Loss Statement
 
 
 ## Creation of various automated reports using Stored Procedures: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/Stored%20Procedures.sql)
@@ -57,23 +57,23 @@ Deep Understanding of Profit & Loss Statement
 
 ## Technical Skills Gained: 
 
-Writing efficient SQL queries. 
+[] Writing efficient SQL queries. 
 
-Creating and utilizing views in SQL. 
+[] Creating and utilizing views in SQL. 
 
-Creating, modifying, and executing stored procedures. 
+[] Creating, modifying, and executing stored procedures. 
 
-Understanding the scope and usage of temporary tables. 
+[] Understanding the scope and usage of temporary tables. 
 
-Utilizing User-Defined Functions for code modularity and reusability. 
+5. Utilizing User-Defined Functions for code modularity and reusability. 
 
-Utilizing window functions to perform advanced analytical operations. 
+6. Utilizing window functions to perform advanced analytical operations. 
 
-Creating and managing helper tables for data manipulation and analysis. 
+7. Creating and managing helper tables for data manipulation and analysis. 
 
 ## Soft Skills Gained: 
 
-Refined understanding of Supply Chain & Finance Analytics 
+1. Refined understanding of Supply Chain & Finance Analytics 
 
-Gathering requirements from stakeholders. 
+2. Gathering requirements from stakeholders. 
 
