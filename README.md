@@ -57,7 +57,7 @@ Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project
 
 ## Technical Skills Gained: 
 
-- [] Writing efficient SQL queries. 
+- [x] Writing efficient SQL queries. 
 
 [] Creating and utilizing views in SQL. 
 
