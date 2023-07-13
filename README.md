@@ -1,7 +1,5 @@
+### Ad-Hoc Analysis in consumer goods industry for Supply Chain & Finance Teams of AtliQ Hardwares
 
-```bash
-Ad-Hoc Analysis in consumer goods industry for Supply Chain & Finance Teams of AtliQ Hardwares
-```
 Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Supply Chain Analytics: 
@@ -57,23 +55,23 @@ Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project
 
 ## Technical Skills Gained: 
 
-[x] Writing efficient SQL queries. 
+- [x] Writing efficient SQL queries. 
 
-[] Creating and utilizing views in SQL. 
+- [x] Creating and utilizing views in SQL. 
 
-[] Creating, modifying, and executing stored procedures. 
+- [x] Creating, modifying, and executing stored procedures. 
 
-[] Understanding the scope and usage of temporary tables. 
+- [x] Understanding the scope and usage of temporary tables. 
 
-5. Utilizing User-Defined Functions for code modularity and reusability. 
+- [x] Utilizing User-Defined Functions for code modularity and reusability. 
 
-6. Utilizing window functions to perform advanced analytical operations. 
+- [x] Utilizing window functions to perform advanced analytical operations. 
 
-7. Creating and managing helper tables for data manipulation and analysis. 
+- [x] Creating and managing helper tables for data manipulation and analysis. 
 
 ## Soft Skills Gained: 
 
-1. Refined understanding of Supply Chain & Finance Analytics 
+- [x] Refined understanding of Supply Chain & Finance Analytics 
 
-2. Gathering requirements from stakeholders. 
+- [x] Gathering requirements from stakeholders. 
 
