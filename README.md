@@ -1,7 +1,6 @@
 # Ad-Hoc Analysis in consumer goods industry for Supply Chain & Finance Teams of AtliQ Hardwares : [Link to Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
-
 ## Supply Chain Analytics: 
 
 1. Understanding of net error, absolute error, and forecasting errors. 
