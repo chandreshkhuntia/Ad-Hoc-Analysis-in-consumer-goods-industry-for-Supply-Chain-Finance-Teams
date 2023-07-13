@@ -55,7 +55,7 @@ Deep Understanding of Profit & Loss Statement
 2. Added the fiscal year in the fact_sales_monthly table itself
    
 
-## Technical Skill: 
+## Technical Skills Gained: 
 
 Writing efficient SQL queries. 
 
@@ -71,7 +71,7 @@ Utilizing window functions to perform advanced analytical operations.
 
 Creating and managing helper tables for data manipulation and analysis. 
 
-## Soft Skills: 
+## Soft Skills Gained: 
 
 Refined understanding of Supply Chain & Finance Analytics 
 
