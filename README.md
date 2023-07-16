@@ -31,7 +31,7 @@
 6. Top n products per division by qty sold
 
 
-## Creation of various views: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/User%20Defined%20Functions.sql)
+## Creation of various views: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams-in-SQL/blob/main/Views.sql)
 
 1. Sales preinv discount
    
