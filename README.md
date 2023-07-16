@@ -47,6 +47,11 @@
 2. Top 3 products from each division by total quantity sold in a given year
 
 
+## User Defined Fuctions: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams-in-SQL/blob/main/User%20Defined%20Functions.sql)
+1. FIscal Year
+2. Quarters
+
+
 ## Performance Improvement: [_(Click Here)_](https://github.com/chandreshkhuntia/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/Performance%20Improvement.sql)
 1. Created dim_date and joined with fact_sales_monthly table to reduce the amount of time taking to run the query
 2. Added the fiscal year in the fact_sales_monthly table itself
