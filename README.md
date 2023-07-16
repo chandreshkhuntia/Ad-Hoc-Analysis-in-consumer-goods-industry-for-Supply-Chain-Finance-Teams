@@ -1,5 +1,4 @@
-# Ad-Hoc Analysis in consumer goods industry for Supply Chain & Finance Teams of AtliQ Hardwares : 
-## [Link to Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+# Ad-Hoc Analysis in consumer goods industry for Supply Chain & Finance Teams of AtliQ Hardware: [Link to Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
 ## Supply Chain Analytics: 
